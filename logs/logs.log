@@ -1,0 +1,591 @@
+[INFO ] 2023-11-20 12:33:00.350 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 12:33:00.464 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-20 12:33:01.351 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-20 12:33:01.418 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-20 12:33:08.518 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-20 12:33:13.701 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 12:33:13.760 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-20 12:33:14.286 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-20 12:33:14.347 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-20 12:33:14.524 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-20 12:33:17.674 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 12:33:17.718 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-20 12:33:19.509 [main] Helper_Class - User clicks forgot password
+[INFO ] 2023-11-20 12:33:19.598 [main] Helper_Class - User enters the valid email id
+[INFO ] 2023-11-20 12:33:25.645 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-20 12:33:25.668 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-20 12:57:17.524 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 12:57:42.785 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 12:58:22.799 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 12:58:40.449 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:07:32.431 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:07:35.463 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:07:38.270 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:07:41.290 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:10:25.860 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:10:25.979 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-20 13:10:36.365 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-20 13:10:38.497 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:10:38.613 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-20 13:10:42.638 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-20 13:10:50.293 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:10:50.456 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-20 13:10:55.440 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-20 13:10:56.671 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:11:00.547 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-20 13:11:09.243 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-20 13:26:42.927 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:28:21.099 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:30:10.330 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 13:30:11.955 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-20 13:30:14.986 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-20 13:30:15.174 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-20 13:30:15.325 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-20 15:25:31.288 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 15:25:32.615 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-20 15:25:36.263 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-20 15:25:36.829 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-20 15:25:37.029 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-20 15:28:48.061 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 15:28:50.962 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-20 15:29:00.453 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-20 15:29:01.769 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-20 15:32:07.209 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 15:32:08.475 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-20 15:32:17.480 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-20 15:32:17.672 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-20 15:32:17.960 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-20 15:32:18.192 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-20 16:29:10.494 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:29:10.657 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-20 16:29:11.528 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-20 16:29:11.625 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-20 16:29:13.941 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-20 16:29:16.337 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:29:16.394 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-20 16:29:16.760 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-20 16:29:16.815 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-20 16:29:17.209 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-20 16:29:17.711 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:29:17.756 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-20 16:29:18.872 [main] Helper_Class - User clicks forgot password
+[INFO ] 2023-11-20 16:29:18.992 [main] Helper_Class - User enters the valid email id
+[INFO ] 2023-11-20 16:29:19.634 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-20 16:29:19.662 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 10:46:48.236 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:46:48.341 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 10:46:48.456 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 10:46:49.621 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 10:46:49.709 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 10:46:51.498 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 10:46:55.057 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:46:55.059 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 10:46:55.112 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 10:46:55.843 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 10:46:55.937 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 10:46:56.076 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 10:46:57.530 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:46:57.530 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 10:46:57.596 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 10:46:58.422 [main] Helper_Class - User clicks forgot password
+[INFO ] 2023-11-21 10:47:47.366 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:47:47.368 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 10:47:47.477 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 10:47:48.200 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 10:47:48.272 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 10:47:50.295 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 10:47:53.828 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:47:53.828 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 10:47:53.879 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 10:47:54.195 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 10:47:54.251 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 10:47:54.468 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 10:47:54.854 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:47:54.855 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 10:47:54.914 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 10:47:55.614 [main] Helper_Class - User clicks forgot password
+[INFO ] 2023-11-21 11:03:36.726 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:03:36.816 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:03:36.976 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:03:39.086 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 11:03:39.223 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:03:45.432 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 11:03:52.174 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:03:52.174 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:03:52.234 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:03:52.952 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 11:03:53.010 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:03:53.143 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 11:03:55.499 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:03:55.499 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:03:55.561 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:03:57.619 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 11:04:01.149 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 11:04:01.152 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 11:04:01.327 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 11:07:13.208 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:07:13.315 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:07:13.489 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:07:14.442 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 11:07:14.641 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:07:16.740 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 11:07:18.536 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:07:18.536 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:07:18.611 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:07:18.946 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 11:07:19.009 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:07:19.166 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 11:07:20.017 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:07:20.017 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:07:20.063 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:07:22.160 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 11:07:24.176 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 11:07:24.186 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 11:07:24.853 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 11:10:37.538 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:10:37.707 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:10:38.016 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:10:38.617 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 11:10:39.294 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:10:42.298 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 11:10:44.949 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:10:44.949 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:10:44.992 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:10:45.358 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 11:10:45.416 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:10:45.581 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 11:10:46.670 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:10:46.670 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:10:46.753 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:10:48.076 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 11:10:49.247 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 11:10:49.250 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 11:10:49.569 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 11:10:52.017 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 11:10:53.213 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 11:10:53.240 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 11:12:15.572 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:12:15.574 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:12:20.955 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 11:12:35.819 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 11:12:36.360 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 11:12:36.841 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 11:12:37.059 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 11:13:52.374 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:13:52.376 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:13:52.491 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 11:13:58.980 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 11:14:03.369 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:14:03.369 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:14:03.488 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 11:14:29.805 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 11:14:41.861 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:14:41.861 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:14:41.977 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 11:14:55.481 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 11:14:58.127 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:14:58.127 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:14:58.247 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 11:15:28.153 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 11:20:11.478 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:20:11.533 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:20:12.237 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:20:12.677 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 11:20:12.744 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:20:16.380 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 11:20:21.266 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:20:21.266 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:20:21.310 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:20:22.162 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 11:20:22.220 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:20:22.411 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 11:20:22.829 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:20:22.830 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:20:22.959 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:20:24.857 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 11:20:26.497 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 11:20:26.500 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 11:20:26.598 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 11:20:34.012 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 11:20:35.796 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 11:20:35.822 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 11:22:06.553 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:22:06.621 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:22:12.120 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 11:22:24.352 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 11:22:25.466 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 11:22:26.197 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 11:22:26.420 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 11:23:01.839 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:23:01.841 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:23:02.416 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 11:23:07.219 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 11:23:09.595 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:23:09.596 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:23:09.702 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 11:23:13.424 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 11:23:14.376 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:23:14.376 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:23:14.524 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 11:23:15.820 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 11:23:16.561 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:23:16.561 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:23:16.678 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 11:23:18.296 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 11:28:51.243 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:28:51.520 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:28:55.040 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 11:29:00.057 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 11:29:01.025 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 11:29:01.913 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 11:29:02.119 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 11:29:07.069 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:29:07.069 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:29:07.461 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 11:29:09.853 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 11:29:14.757 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:29:14.758 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:29:15.086 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 11:32:05.656 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 11:32:07.436 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:32:07.436 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:32:09.614 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 11:32:11.170 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 11:32:12.331 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:32:12.331 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:32:12.450 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 11:32:16.421 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 11:32:18.113 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:32:18.114 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:32:18.176 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:32:19.187 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 11:32:19.268 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:32:22.879 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 11:32:24.083 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:32:24.083 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:32:24.131 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:32:25.722 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 11:32:25.783 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:32:25.917 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 11:32:26.489 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:32:26.489 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:32:26.546 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:32:27.517 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 11:32:28.870 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 11:32:28.873 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 11:32:28.993 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 11:32:30.670 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 11:32:31.411 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 11:32:31.435 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 11:36:45.984 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:36:45.987 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:36:47.116 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 11:36:52.650 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 11:36:53.554 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 11:36:54.044 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 11:37:01.326 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:37:01.326 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:37:02.176 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 11:37:07.426 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 11:37:11.456 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:37:11.456 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:37:11.714 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 11:37:20.322 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 11:37:21.718 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:37:21.718 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:37:21.832 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 11:37:27.603 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 11:37:29.370 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:37:29.371 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:37:29.516 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 11:37:32.584 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 11:37:40.204 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:37:40.204 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:37:40.270 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:37:41.658 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 11:37:41.721 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:37:43.954 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 11:37:46.816 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:37:46.816 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:37:46.922 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:37:47.499 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 11:37:47.551 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:37:47.693 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 11:37:49.255 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:37:49.255 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:37:49.329 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:37:50.776 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 11:37:53.622 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 11:37:53.629 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 11:37:54.121 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 11:37:56.462 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 11:37:56.689 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 11:38:57.443 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:38:57.445 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:38:57.593 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 11:39:00.926 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 11:39:01.113 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 11:39:01.414 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 11:39:03.126 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:39:03.127 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:39:03.399 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 11:39:04.195 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 11:39:05.375 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:39:05.375 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:39:05.485 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 11:39:06.703 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 11:39:07.170 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:39:07.170 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:39:07.324 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 11:39:08.121 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 11:39:08.650 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:39:08.650 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:39:08.764 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 11:39:09.603 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 11:39:10.471 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:39:10.471 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:39:10.583 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:39:10.963 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 11:39:11.035 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:39:12.325 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 11:39:13.492 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:39:13.492 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:39:13.633 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:39:13.936 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 11:39:13.996 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:39:14.154 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 11:39:14.744 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:39:14.745 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:39:14.826 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:39:15.822 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 11:39:15.947 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 11:39:15.950 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 11:39:15.970 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 11:39:16.443 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 11:39:16.862 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 11:39:17.101 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 11:44:11.406 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:44:11.410 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:44:11.568 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 11:44:14.102 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 11:44:14.293 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 11:44:14.547 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 11:44:17.784 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 11:44:19.131 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:44:19.131 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:44:19.236 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 11:44:21.749 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 11:44:22.730 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:44:22.730 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:44:22.901 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 11:44:24.412 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 11:44:25.234 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:44:25.234 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:44:25.368 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 11:44:27.682 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 11:44:28.146 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:44:28.146 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:44:28.388 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 11:44:29.682 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 11:44:30.202 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:44:30.203 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:44:30.267 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:44:30.637 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 11:44:30.714 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:44:32.301 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 11:44:34.030 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:44:34.031 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:44:34.078 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:44:34.612 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 11:44:34.668 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:44:34.839 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 11:44:35.870 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:44:35.870 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:44:35.954 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:44:44.138 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 11:44:44.266 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 11:44:44.269 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 11:44:44.290 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 11:44:44.789 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 11:44:52.432 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 11:44:52.456 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 11:47:10.557 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:47:10.559 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:47:12.731 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 11:47:18.743 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 11:47:19.632 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 11:47:19.984 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 11:47:23.089 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 11:47:24.511 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:47:24.511 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:47:24.649 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 11:47:34.127 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 11:47:37.713 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:47:37.713 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:47:38.149 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 11:48:05.878 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 11:48:10.459 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:48:10.459 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:48:10.881 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 11:48:26.828 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 11:48:31.099 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:48:31.099 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:48:31.218 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 11:48:57.783 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 11:49:07.442 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:49:07.442 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:49:07.507 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:49:10.373 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 11:49:10.438 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:49:23.537 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 11:49:31.044 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:49:31.044 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:49:31.117 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:49:32.532 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 11:49:32.589 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 11:49:32.753 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 11:49:34.063 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:49:34.063 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 11:49:34.103 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 11:49:37.296 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 11:49:38.598 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 11:49:38.600 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 11:49:43.050 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 11:50:03.016 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 11:50:09.352 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 11:50:09.375 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 12:09:43.056 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:09:43.189 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:09:49.342 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 12:10:01.975 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 12:10:03.144 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 12:10:04.248 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 12:10:07.342 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 12:10:08.951 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:10:08.951 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:10:09.423 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 12:11:12.293 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 12:11:25.535 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:11:25.535 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:11:25.676 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 12:12:05.421 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 12:12:07.420 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:12:07.420 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:12:07.527 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 12:12:19.538 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 12:12:23.532 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:12:23.532 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:12:23.639 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 12:14:28.289 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 12:14:29.369 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:14:29.370 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:14:29.427 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 12:14:29.971 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 12:14:30.039 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 12:14:34.256 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 12:14:36.542 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:14:36.543 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:14:36.588 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 12:14:36.904 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 12:14:36.962 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 12:14:37.113 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 12:14:38.557 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:14:38.557 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:14:38.600 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 12:14:40.011 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 12:14:41.296 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 12:14:41.299 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 12:14:41.523 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 12:14:43.717 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 12:14:44.978 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 12:14:45.000 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 12:40:40.845 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:40:40.868 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:40:46.493 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 12:40:55.412 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 12:40:56.276 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 12:40:57.448 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 12:41:00.558 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 12:41:04.062 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:41:04.062 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:41:04.255 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 12:41:18.756 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 12:41:23.850 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:41:23.850 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:41:23.961 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 12:41:35.640 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 12:41:42.048 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:41:42.048 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:41:42.155 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 12:42:04.486 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 12:42:16.986 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:42:16.986 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:42:35.938 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 12:43:05.931 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 12:43:10.465 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:43:10.465 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:43:12.439 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 12:43:13.694 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 12:43:13.763 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 12:43:16.644 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 12:43:17.739 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:43:17.739 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:43:17.831 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 12:43:18.233 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 12:43:18.309 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 12:43:18.464 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 12:43:18.967 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:43:18.968 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 12:43:19.048 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 12:43:20.791 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 12:43:25.586 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 12:43:25.589 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 12:43:26.235 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 12:43:31.659 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 12:43:32.257 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 12:43:32.281 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 13:01:09.566 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:01:09.638 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 13:01:15.549 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 13:01:24.993 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 13:01:25.869 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 13:01:26.125 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 13:01:29.232 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 13:01:33.129 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:01:33.129 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 13:01:33.515 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 13:02:30.567 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 13:02:38.479 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:02:38.480 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 13:02:38.600 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 13:02:53.821 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 13:03:03.033 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:03:03.033 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 13:03:03.897 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 13:04:18.317 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 13:04:22.459 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:04:22.459 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 13:04:22.734 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 13:04:25.675 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 13:04:26.856 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:04:26.856 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 13:04:26.917 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 13:04:27.281 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 13:04:27.347 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 13:04:29.850 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 13:04:32.099 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:04:32.099 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 13:04:32.144 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 13:04:32.750 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 13:04:32.807 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 13:04:32.952 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 13:04:34.087 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:04:34.088 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 13:04:34.126 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 13:04:35.864 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 13:04:37.976 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 13:04:37.979 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 13:04:38.161 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 13:04:39.975 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 13:04:41.145 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 13:04:41.167 [main] Helper_Class - User is sent a password recovery mail to the registed mail id

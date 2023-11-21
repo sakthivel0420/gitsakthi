@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-21T11:43:59 IST" name="Default suite" finished-at="2023-11-21T11:44:52 IST" duration-ms="53639">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Runner.TestNGLogin@353352b6]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-11-21T11:43:59 IST" name="Default test" finished-at="2023-11-21T11:44:52 IST" duration-ms="53639">
+      <class name="com.Runner.TestNGLogin">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.Runner.TestNGLogin@353352b6]" started-at="2023-11-21T11:43:59 IST" name="setUpClass" finished-at="2023-11-21T11:43:59 IST" duration-ms="236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3bd08435]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Runner.TestNGLogin@353352b6]" started-at="2023-11-21T11:43:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-21T11:44:17 IST" duration-ms="18470" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Looking for product, sorting it and adding filters"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["To select a product and use filters to see if the product gets sorted and displays only limited products"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Runner.TestNGLogin@353352b6]" started-at="2023-11-21T11:44:17 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-21T11:44:21 IST" duration-ms="3959" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User clicking About us"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Get to know us in SportsJam"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Runner.TestNGLogin@353352b6]" started-at="2023-11-21T11:44:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-21T11:44:24 IST" duration-ms="2662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User clicking contact us"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Get to know us in SportsJam"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Runner.TestNGLogin@353352b6]" started-at="2023-11-21T11:44:24 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-21T11:44:27 IST" duration-ms="3270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User clicking inqury/feedback"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Get to know us in SportsJam"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Runner.TestNGLogin@353352b6]" started-at="2023-11-21T11:44:27 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-21T11:44:29 IST" duration-ms="1999" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User clicking sportsjam team"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Get to know us in SportsJam"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Runner.TestNGLogin@353352b6]" started-at="2023-11-21T11:44:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-21T11:44:33 IST" duration-ms="3866" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User logins to the web application with valid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Checking the login functionality of the sportsjam web application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Runner.TestNGLogin@353352b6]" started-at="2023-11-21T11:44:33 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-21T11:44:34 IST" duration-ms="1289" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User logins to the web application with Invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Checking the login functionality of the sportsjam web application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Runner.TestNGLogin@353352b6]" started-at="2023-11-21T11:44:34 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-21T11:44:52 IST" duration-ms="17617" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User uses the forgot password feature to recover their password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Checking the login functionality of the sportsjam web application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.Runner.TestNGLogin@353352b6]" started-at="2023-11-21T11:44:52 IST" name="tearDownClass" finished-at="2023-11-21T11:44:52 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.Runner.TestNGLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
