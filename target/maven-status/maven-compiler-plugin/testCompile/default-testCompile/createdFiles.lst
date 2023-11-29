@@ -1,0 +1,15 @@
+com\PilotProject\SportsJam\AppTest.class
+com\Runner\TestAllRunner.class
+com\actions\GetToKnowUsStepActions.class
+com\locators\AllLocators.class
+com\utility\ExcelReader.class
+com\locators\FitnessLocators.class
+com\locators\GetToKnowUsStepLocators.class
+com\utility\properties.class
+com\actions\AllActions.class
+com\actions\LoginActions.class
+com\locators\LoginLocators.class
+com\utility\Helper_Class.class
+com\actions\FitnessActions.class
+com\StepDefinition\HookClass.class
+com\StepDefinition\AllStepDefinition.class
